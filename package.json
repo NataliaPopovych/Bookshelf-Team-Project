@@ -2,20 +2,20 @@
   "name": "bookshelf",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndreiGutnik.github.io/BookShelf",
+  "homepage": "https://NataliaPopovych.github.io/Bookshelf-Team-Project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /BookShelf/"
+    "build": "parcel build src/*.html --public-url /Bookshelf-Team-Project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreiGutnik/BookShelf.git"
+    "url": "git+https://github.com/NataliaPopovych/Bookshelf-Team-Project.git"
   },
   "keywords": [],
-  "author": "Andrii Hutnyk <andreigutnik@gmail.com>",
+  "author": "Natalia Popovych <n.gumench@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndreiGutnik/BookShelf/issues"
+    "url": "https://github.com/NataliaPopovych/Bookshelf-Team-Project/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
