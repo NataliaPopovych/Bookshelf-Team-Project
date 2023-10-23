@@ -1,0 +1,18 @@
+@import './base/common';
+@import './base/reset';
+@import './base/variables';
+@import './base/fonts';
+@import './base/base';
+
+@import './components/header';
+@import './components/switchThems';
+@import './components/authorization';
+@import './components/category';
+@import './components/slider';
+@import './components/home-page';
+
+@import "./base/modal";
+
+
+@import './components/loader';
+@import './components/scrollUp';
